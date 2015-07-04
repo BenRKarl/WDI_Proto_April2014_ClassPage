@@ -36,7 +36,7 @@ var protoObjects = [
    image: 'images/protos/cropped/Dmitry.jpg'},
   {name: 'Paul Hiam',
    intro: 'Paul has a background in digital media and has worked primarily with non-profits and social ventures. He recently moved to New York to attend ITP at Tisch. When Paul is not dreaming up web applications, he enjoys rock climbing and making music.',
-   portfolio: 'http://paulhiam.github.io',
+   portfolio: 'http://paulh1am.github.io',
    github: 'https://github.com/paulh1am',
    twitter: '',
    email: 'p.s.hiam@gmail.com',
